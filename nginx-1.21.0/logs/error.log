@@ -1,0 +1,6 @@
+2022/12/19 23:10:01 [emerg] 14408#24920: CreateFile() "D:\安装包\nginx-1.21.0/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/12/19 23:11:13 [emerg] 3288#24320: CreateFile() "D:\安装包\nginx-1.21.0/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/12/19 23:11:57 [emerg] 24352#18740: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/12/19 23:13:01 [error] 25052#24440: *5 CreateFile() "D:\sphinx\nginx-1.21.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/"
+2022/12/19 23:34:08 [notice] 21380#14588: signal process started
+2022/12/19 23:38:40 [notice] 6580#15876: signal process started
